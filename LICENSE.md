@@ -1,4 +1,4 @@
-# 
+# advanced Obsidian for Windows Workflow | templates + cloud-sync offers the most advanced Obsidian for Windows workflow, with templates and cloud-sync. Ideal for Windows
 
 
 
